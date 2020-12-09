@@ -11,6 +11,8 @@ SDK for Sipeed MF1 AI module
 
 This repo is no longer maintained, please contact support@sipeed.com if you need a new SDK
 
+The new SDK only open for commercial customer; for opensource usage, please use MaixPy, and tutorial in: https://blog.sipeed.com/p/1338.html
+
 ## Pre Built Firmware
 
 [http://dl.sipeed.com](http://dl.sipeed.com/MAIX/SDK/MF1_SDK_Prebuild/dev)
